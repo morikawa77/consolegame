@@ -1,0 +1,14 @@
+C:\Vs\Fabio\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Vs\Fabio\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Vs\Fabio\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Vs\Fabio\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Vs\Fabio\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Vs\Fabio\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Vs\Fabio\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
+C:\Vs\Fabio\Jogos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Vs\Fabio\Jogos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Vs\Fabio\Jogos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Vs\Fabio\Jogos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
+C:\Vs\Fabio\Jogos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Vs\Fabio\Jogos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Vs\Fabio\Jogos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
